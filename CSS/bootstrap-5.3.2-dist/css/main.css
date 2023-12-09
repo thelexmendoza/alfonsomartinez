@@ -1,3 +1,31 @@
 .whisper {
-    font-family: 'Whisper', cursive;
+    font-family: 'whisper', cursive;
+    font-size: 34pt;
+}
+.noborder-list {
+    border-style: hidden;
+}
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+.montserrat_bold{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 10pt;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+.montserrat_p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.list-center{
+    display: inline-block;
+    text-align: left;
+}
+.ul-contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
